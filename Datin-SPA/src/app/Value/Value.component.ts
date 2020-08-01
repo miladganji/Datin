@@ -24,11 +24,11 @@ err: any;
   getValues()
   {
 
-this.http.get('http://localhost:5000/api/').subscribe(Response => {
+this.http.get('http://localhost:5000/api/Home/Index').subscribe(Response => {
 this.values = Response;
 
 // tslint:disable-next-line:no-shadowed-variable
-}, error => console.log('oops', error)
+}, error => this.values = '<p>milad</p>'
 );
 
   }
