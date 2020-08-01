@@ -1,4 +1,4 @@
-namespace Datin.Api.Models
+namespace Datin.Api.Data
 {
     public class values
     {

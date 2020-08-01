@@ -4966,11 +4966,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Datin\\Datin.Api\\Datin.Api.csproj",
+      "projectUniqueName": "D:\\Datin\\Datin.Api\\Datin.Api.csproj",
       "projectName": "Datin.Api",
-      "projectPath": "d:\\Datin\\Datin.Api\\Datin.Api.csproj",
+      "projectPath": "D:\\Datin\\Datin.Api\\Datin.Api.csproj",
       "packagesPath": "C:\\Users\\m.ganjinejad\\.nuget\\packages\\",
-      "outputPath": "d:\\Datin\\Datin.Api\\obj\\",
+      "outputPath": "D:\\Datin\\Datin.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
